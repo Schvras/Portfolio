@@ -1,0 +1,75 @@
+{
+    "nome": "Jean Henrique Schvartz",
+    "dataNascimeno": "11/02/2001",
+    "biografia":"Ainda não escrito!",
+    "redesSocias":[
+        {
+            "redeSocial":"Linkedin",
+            "link":""
+        },
+        {
+            "redeSocial":"Behance",
+            "link":""
+        },
+        {
+            "redeSocial":"Instagran",
+            "link":""
+        }
+    ],
+    "repositorios":[
+        {
+            "repositorio":"Utilitário",
+            "link":""
+        }
+    ],
+    "trabalhos":[
+        {
+            "empresa": "Siscobra Sistemas",
+            "cargo":"Suporte ao cliente",
+            "tarefas": "Atendimento e resolução de chamados.",
+            "dataContratacao":"10/01/2022"
+        }
+    ],
+    "habilidades":[
+        {
+            "habilidade":"Html",
+            "nivel":2,
+            "tempoMeses":12
+        },
+        {
+            "habilidade":"Css",
+            "nivel":2,
+            "tempoMeses":12
+        },
+        {
+            "habilidade":"JavaScript",
+            "nivel":2,
+            "tempoMeses":16
+        },
+        {
+            "habilidade":"Java",
+            "nivel":1,
+            "tempoMeses":5
+        },
+        {
+            "habilidade":"PostgreSQL",
+            "nivel":3,
+            "tempoMeses":18
+        },
+        {
+            "habilidade":"C++",
+            "nivel":2,
+            "tempoMeses":12
+        },
+        {
+            "habilidade":"Arduino",
+            "nivel":3,
+            "tempoMeses":12
+        },
+        {
+            "habilidade":"E3 Studio",
+            "nivel":1,
+            "tempoMeses":3
+        }
+    ]
+}
